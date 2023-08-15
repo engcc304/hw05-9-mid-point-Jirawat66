@@ -39,8 +39,8 @@ int main() {
     printf("Input B Point :\n") ;
     scanf("%f  %f",&b1, &b2 ) ;
 
-    mid1 = ( a1 + a2 ) / 2 ;
-    mid2 = ( b1 + b2 ) / 2 ;
+    mid1 = ( a1 + b1 ) / 2 ;
+    mid2 = ( a2 + b2 ) / 2 ;
 
     printf("Mid Point of A and B is ( %.1f, %.1f )",mid1, mid2 ) ;
 
