@@ -42,7 +42,7 @@ int main() {
     mid1 = ( a1 + a2 ) / 2 ;
     mid2 = ( b1 + b2 ) / 2 ;
 
-    printf("Mid Point of A and B is ( %.1f, %.1f )",mid1 , mid2 ) ;
+    printf("Mid Point of A and B is ( %.1f, %.1f )",mid1, mid2 ) ;
 
     return 0 ;
 }
